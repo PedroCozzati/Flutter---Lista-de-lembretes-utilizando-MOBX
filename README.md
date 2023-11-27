@@ -1,16 +1,22 @@
 # test_flutter
 
-A new Flutter project.
+Um projeto simples em Flutter, utilizando MOBX e clean arch
 
-## Getting Started
+dependencias utilizadas:
+  url_launcher: ^6.2.1
+  http: ^1.1.0
+  mobx: ^2.2.1
+  flutter_mobx: ^2.2.0
+  fluttertoast: 8.0.9
+  shared_preferences: ^2.2.2
+  mockito: ^5.4.3
+  build_runner: ^2.4.6
+  mobx_codegen: ^2.4.0
 
-This project is a starting point for a Flutter application.
+Foi utilizado um mockAPI para o login, o usuário registrado na api é esse:
+nome: usuario1
+senha: 123456
 
-A few resources to get you started if this is your first Flutter project:
+link mockAPI: https://6561981adcd355c08323f844.mockapi.io/api/v1/User
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.

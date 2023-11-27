@@ -17,6 +17,8 @@ Foi utilizado um mockAPI para o login, o usuário registrado na api é esse:<br>
 nome: usuario1<br>
 senha: 123456<br><br>
 
+É possível validar os campos, foram incluidas validações para ver se o usuário e senha são válidos, e também é validado a quantidade de caracteres em cada campo, além de validar caracteres especiais.
+
 link mockAPI: https://6561981adcd355c08323f844.mockapi.io/api/v1/User<br>
 
 

@@ -23,7 +23,7 @@ link mockAPI: https://6561981adcd355c08323f844.mockapi.io/api/v1/User<br>
 
 Screenshots:
 
-![Screenshot_20231127-235816](https://github.com/PedroCozzati/Target-Sistemas---Teste-Flutter/assets/80106385/22a3bbb1-0c50-4ba3-83d5-b34692fb4f50) width=100px
+<img src='https://github.com/PedroCozzati/Target-Sistemas---Teste-Flutter/assets/80106385/22a3bbb1-0c50-4ba3-83d5-b34692fb4f50' width=100px>
 ![Screenshot_20231127-235923](https://github.com/PedroCozzati/Target-Sistemas---Teste-Flutter/assets/80106385/158aeb73-adc3-4558-8f6b-c354de17bc65)
 ![Screenshot_20231127-235930](https://github.com/PedroCozzati/Target-Sistemas---Teste-Flutter/assets/80106385/aa12dade-9e4d-494b-a119-5d87ab029527)
 
